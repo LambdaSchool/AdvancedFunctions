@@ -1,8 +1,8 @@
-his project will help you practice the skills and concepts you learned related to more advanced functions, such as using multiple arguments, return values, default values, and using multiplefunctions in Swift.
+## Instructions
+
+This project will help you practice the skills and concepts you learned related to more advanced functions, such as using multiple arguments, return values, default values, and using multiplefunctions in Swift.
 
 This project is all done in playgrounds. Follow the instructions below:
-
-Download the Playground
 
 Download the playground for this project by clicking [here](https://github.com/LambdaSchool/AdvancedFunctions/archive/master.zip).
 Unzip the downloaded file.
@@ -18,6 +18,6 @@ Bonus
 
 The last page of the playground ("Fibonacci") includes two additional bonus problems if you finish early or want a further challenge.
 
-Submit
+## Submit
 
 Zip up the AdvancedFunctions.playground file after you've finished all the exercises. Submit the zipped playground file to your Team Lead (TL).
