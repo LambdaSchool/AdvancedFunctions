@@ -1,23 +1,26 @@
-## Instructions
+# Advanced Functions
 
-This project will help you practice the skills and concepts you learned related to more advanced functions, such as using multiple arguments, return values, default values, and using multiplefunctions in Swift.
+This project will help you practice the skills and concepts you learned related to more advanced functions, such as using multiple arguments, return values, default values, and using multiple functions in Swift.
 
-This project is all done in playgrounds. Follow the instructions below:
+### Non-Mac Users:
 
-Download the playground for this project by clicking [here](https://github.com/LambdaSchool/AdvancedFunctions/archive/master.zip).
-Unzip the downloaded file.
-Open the included AdvancedFunctions.playground file using Xcode
-Do the Exercises
+This assignment is broken up into smaller repl.it pages. Please go to and complete all of the assignments at the links below:
 
-This project consists of multiple pages. You can see all the pages by choosing View->Navigators->Show Navigators in the View menu in Xcode.
+1. https://repl.it/student/submissions/7592396
+2. https://repl.it/student/submissions/7592433
+3. https://repl.it/student/submissions/7592461
 
-Complete all the exercises on the first page.
-Go to the next page by clicking the "Next" link at the bottom of the playground, or by selecting it in the files navigator on the left side.
-Repeat until you've completed all pages in the playground.
-Bonus
+### Mac Users:
+
+1. Download the playground for this project by clicking [here](https://github.com/LambdaSchool/AdvancedFunctions/archive/master.zip).
+2. Unzip the downloaded file.
+3. Open the included StringsArithmetic.playground file using Xcode if you are on a Mac. The playground has the instructions for the assignment in it.
+
+This playground consists of multiple pages. You can see all the pages by choosing View -> Navigators -> Show Navigators in the View menu in Xcode. The playground has
+
+1. Complete all the excercises on the first page.
+2. Go to the next page by clicking the "Next" link at the bottom of the playground, or by selecting it in the files navigator on the left side.
+3. Repeat until you've completed all pages in the playground.
+4. Submit your finished work after you've completed all the excercises.
 
 The last page of the playground ("Fibonacci") includes two additional bonus problems if you finish early or want a further challenge.
-
-## Submit
-
-Zip up the AdvancedFunctions.playground file after you've finished all the exercises. Submit the zipped playground file to your Team Lead (TL).
